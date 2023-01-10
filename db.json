@@ -1,12 +1,34 @@
 {
-    "maquinas":[
+    "computadores":[
         {
-            
+            "nome":"pc basico",
             "processador":"I5",
             "placa mãe":"AB450",
             "memoria ram":"8G ram",
             "memoria interna": "ssd 500g",
-            "gabinete":"qualquer um"
+            "gabinete":"qualquer um",
+            "id": 1
+        }
+       
+    ],
+    "notebooks":[
+            {
+                "nome": "acer aspire 3",
+                "id": 1
+            
+            }
+    ],
+    "impressoras":[
+        {
+             "nome": "impressora 3d 340 edson",
+             "id": 1
+        }
+    ],
+    "jogos":[
+        {
+            "nome": "final fantasy xv",
+            "id": 1
+            
         }
     ]
 }
