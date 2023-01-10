@@ -8,27 +8,125 @@
             "memoria interna": "ssd 500g",
             "gabinete":"qualquer um",
             "id": 1
+        },
+        {
+            "nome":"HIGHFLYER",
+            "processador":"AMD RYZEN 9",
+            "placa de video":"GEFORCE RTX 3060 TI",
+            "memoria ram":"8GB",
+            "memoria interna": "500g",
+            "id": 2
+        },
+        {
+            "nome":"HIGHFLYER",
+            "processador":"AMD RYZEN 5",
+            "placa de video":"GEFORCE RTX 1060 TI",
+            "memoria ram":"12GB",
+            "memoria interna": "1TB",
+            "id": 2
+        },
+        {
+            "nome":"HIGHFLYER",
+            "processador":"AMD RYZEN 9",
+            "placa de video":"GEFORCE RTX 4070 TI",
+            "memoria ram":"12GB",
+            "memoria interna": "1TB",
+            "id": 2
         }
        
     ],
     "notebooks":[
-            {
-                "nome": "acer aspire 3",
-                "id": 1
-            
-            }
+        {
+            "nome": "Notebook Acer Aspire 3 ",
+            "processador": "Intel® Core™ i5– 1135G7 Quad Core ",
+            "Memória RAM": "8 GB RAM DDR4 (4 GB Soldada + 4 GB Módulo)",
+            "Tela": "14” LED com design ultrafino Painel: IPS Resolução: Full HD (1920x1080)",
+            "id": 1
+        },
+        {
+            "nome": "Notebook Acer Aspire 5 ",
+            "processador": "Intel® Core™ 75– 1135G7 Quad Core ",
+            "Memória RAM": "8 GB RAM DDR4 (4 GB Soldada + 4 GB Módulo)",
+            "Tela": "14” LED com design ultrafino Painel: IPS Resolução: Full HD (1920x1080)",
+            "id": 1
+        },
+        {
+            "nome": "Notebook Acer Aspire 9 ",
+            "processador": "Intel® Core™ i5– 1135G7 Quad Core ",
+            "Memória RAM": "8 GB RAM DDR4 (4 GB Soldada + 4 GB Módulo)",
+            "Tela": "14” LED com design ultrafino Painel: IPS Resolução: Full HD (1920x1080)",
+            "id": 1
+        },
+        {
+            "nome": "Notebook Acer Aspire 5 ",
+            "processador": "Intel® Core™ i5– 1135G7 Quad Core ",
+            "Memória RAM": "8 GB RAM DDR4 (4 GB Soldada + 4 GB Módulo)",
+            "Tela": "14” LED com design ultrafino Painel: IPS Resolução: Full HD (1920x1080)",
+            "id": 1
+        }
     ],
     "impressoras":[
         {
-             "nome": "impressora 3d 340 edson",
-             "id": 1
-        }
-    ],
-    "jogos":[
-        {
-            "nome": "final fantasy xv",
+            "nome":"‎Creality 3D",
+            "Dimensões do produto":"‎22 x 22 x 25 cm; 6.98 Quilogramas",
+            "Cor": "‎Preto",
+            "Número da peça" :"Ender3",
             "id": 1
-            
+        },
+        {
+            "nome":"‎unreal",
+            "Dimensões do produto":"‎40 x 22 x 5 cm; 6.98 Quilogramas",
+            "Cor": "‎branco",
+            "Número da peça" :"Ender3",
+            "id": 1
+        },
+        {
+            "nome":"‎Creality 3D",
+            "Dimensões do produto":"‎22 x 22 x 25 cm; 6.98 Quilogramas",
+            "Cor": "‎Preto",
+            "Número da peça" :"Ender3",
+            "id": 1
+        },
+        {
+            "nome":"‎Creality 3D",
+            "Dimensões do produto":"‎22 x 22 x 25 cm; 6.98 Quilogramas",
+            "Cor": "‎Preto",
+            "Número da peça" :"Ender3",
+            "id": 1
+        },
+    ],
+    "headset":[
+        {
+            "nome": "Havit",
+            "Modelo": "HV-H2002D",
+            "Alto-falante": "53 mm",
+            "Compatibilidade": "PC / PS4 / XBOX ONE",
+            "Microfone": "6.0 x 2.2 mm",
+            "id": 1
+        },
+        {
+            "nome": "rabbit",
+            "Modelo": "HV-H2002D",
+            "Alto-falante": "53 mm",
+            "Compatibilidade": "PS4 / XBOX ONE",
+            "Microfone": "6.0 x 2.2 mm",
+            "id": 1
+        },
+        {
+            "nome": "Havit",
+            "Modelo": "HV-H2002D",
+            "Alto-falante": "53 mm",
+            "Compatibilidade": "PC / PS4 / XBOX ONE",
+            "Microfone": "6.0 x 2.2 mm",
+            "id": 1
+        },
+        {
+            "nome": "Havit",
+            "Modelo": "HV-H2002D",
+            "Alto-falante": "53 mm",
+            "Compatibilidade": "PC / PS4 / XBOX ONE",
+            "Microfone": "6.0 x 2.2 mm",
+            "id": 1
         }
     ]
 }
