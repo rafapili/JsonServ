@@ -1,0 +1,12 @@
+{
+    "maquinas":[
+        {
+            
+            "processador":"I5",
+            "placa mãe":"AB450",
+            "memoria ram":"8G ram",
+            "memoria interna": "ssd 500g",
+            "gabinete":"qualquer um"
+        }
+    ]
+}
