@@ -23,7 +23,7 @@
             "placa de video":"GEFORCE RTX 1060 TI",
             "memoria ram":"12GB",
             "memoria interna": "1TB",
-            "id": 2
+            "id": 3
         },
         {
             "nome":"HIGHFLYER",
@@ -31,7 +31,7 @@
             "placa de video":"GEFORCE RTX 4070 TI",
             "memoria ram":"12GB",
             "memoria interna": "1TB",
-            "id": 2
+            "id": 4
         }
        
     ],
@@ -48,21 +48,21 @@
             "processador": "Intel® Core™ 75– 1135G7 Quad Core ",
             "Memória RAM": "8 GB RAM DDR4 (4 GB Soldada + 4 GB Módulo)",
             "Tela": "14” LED com design ultrafino Painel: IPS Resolução: Full HD (1920x1080)",
-            "id": 1
+            "id": 2
         },
         {
             "nome": "Notebook Acer Aspire 9 ",
             "processador": "Intel® Core™ i5– 1135G7 Quad Core ",
             "Memória RAM": "8 GB RAM DDR4 (4 GB Soldada + 4 GB Módulo)",
             "Tela": "14” LED com design ultrafino Painel: IPS Resolução: Full HD (1920x1080)",
-            "id": 1
+            "id": 3
         },
         {
             "nome": "Notebook Acer Aspire 5 ",
             "processador": "Intel® Core™ i5– 1135G7 Quad Core ",
             "Memória RAM": "8 GB RAM DDR4 (4 GB Soldada + 4 GB Módulo)",
             "Tela": "14” LED com design ultrafino Painel: IPS Resolução: Full HD (1920x1080)",
-            "id": 1
+            "id": 4
         }
     ],
     "impressoras":[
@@ -78,21 +78,21 @@
             "Dimensões do produto":"‎40 x 22 x 5 cm; 6.98 Quilogramas",
             "Cor": "‎branco",
             "Número da peça" :"Ender3",
-            "id": 1
+            "id": 2
         },
         {
             "nome":"‎Creality 3D",
             "Dimensões do produto":"‎22 x 22 x 25 cm; 6.98 Quilogramas",
             "Cor": "‎Preto",
             "Número da peça" :"Ender3",
-            "id": 1
+            "id": 3
         },
         {
             "nome":"‎Creality 3D",
             "Dimensões do produto":"‎22 x 22 x 25 cm; 6.98 Quilogramas",
             "Cor": "‎Preto",
             "Número da peça" :"Ender3",
-            "id": 1
+            "id": 4
         }
     ],
     "headset":[
@@ -110,7 +110,7 @@
             "Alto-falante": "53 mm",
             "Compatibilidade": "PS4 / XBOX ONE",
             "Microfone": "6.0 x 2.2 mm",
-            "id": 1
+            "id": 2
         },
         {
             "nome": "Havit",
@@ -118,7 +118,7 @@
             "Alto-falante": "53 mm",
             "Compatibilidade": "PC / PS4 / XBOX ONE",
             "Microfone": "6.0 x 2.2 mm",
-            "id": 1
+            "id": 3
         },
         {
             "nome": "Havit",
@@ -126,7 +126,7 @@
             "Alto-falante": "53 mm",
             "Compatibilidade": "PC / PS4 / XBOX ONE",
             "Microfone": "6.0 x 2.2 mm",
-            "id": 1
+            "id": 4
         }
     ]
 }
